@@ -272,11 +272,6 @@ If you'd like to add support for additional HTTP clients, check out the already
 implemented drivers in `lib/api_auth/request_drivers` for reference. All of
 the public methods for each driver are required to be implemented by your driver.
 
-## Authors
-
-* [Mauricio Gomes](http://github.com/mgomes)
-* [Kevin Glowacz](http://github.com/kjg)
-
 ## Copyright
 
 Copyright (c) 2014 Mauricio Gomes. See LICENSE.txt for further details.

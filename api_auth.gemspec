@@ -6,8 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'Full HMAC auth implementation for use in your gems and Rails apps.'
   s.homepage = 'https://github.com/mgomes/api_auth'
   s.version = File.read(File.join(File.dirname(__FILE__), 'VERSION'))
-  s.authors = ['Mauricio Gomes']
-  s.email = 'mauricio@edge14.com'
+  s.email = 'firly.larly0430@gmail.com'
 
   s.required_ruby_version = '>= 2.3.0'
 
